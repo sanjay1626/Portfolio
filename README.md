@@ -6,8 +6,10 @@ Created a simple styled portfolio, which contains three pages linked to each oth
 The About Me, that gives a short description of myself
 The Portfolio, that shows projects that are completed by myself
 The Contact, that allows users to input their contact info and message
+Design was more on just a professional simple look
 
-# Languages:HTML,CSS, & Bootstrap
+# Languages
+    HTML,CSS, & Bootstrap
 
 # Links
     Github:https://sanjay1626.github.io/Portfolio/
@@ -19,7 +21,9 @@ The Contact, that allows users to input their contact info and message
   ![Screenshot](https://github.com/sanjay1626/Portfolio/blob/main/assests/Images/Screenshot2.jpg)
   ![Screenshot](https://github.com/sanjay1626/Portfolio/blob/main/assests/Images/Screenshot3.jpg)
 # License
-    MonkeyBrain Inc.&#169
+    MonkeyBrain Inc.
+    Github
+    
 
 # Author
   Sanjay Gonsalves
