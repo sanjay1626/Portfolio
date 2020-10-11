@@ -16,8 +16,8 @@ The Contact, that allows users to input their contact info and message
  # Screenshots   
 
   ![Screenshot](https://github.com/sanjay1626/Portfolio/blob/main/assests/Images/Screenshot1.jpg)
-
-
+  ![Screenshot](https://github.com/sanjay1626/Portfolio/blob/main/assests/Images/Screenshot2.jpg)
+  ![Screenshot](https://github.com/sanjay1626/Portfolio/blob/main/assests/Images/Screenshot3.jpg)
 # License
     MonkeyBrain Inc.&#169
 
