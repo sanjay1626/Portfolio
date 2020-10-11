@@ -7,10 +7,21 @@ The Portfolio, that shows projects that are completed by myself
 The Contact, that allows users to input their contact info and message
 # Languages:HTML,CSS, & Bootstrap
 # Links
+    Github:https://sanjay1626.github.io/Portfolio/
+    Google Doc:https://drive.google.com/drive/folders/1092hqS3Wjc2zWdIrUdb24qrIr-LD4VSO?usp=sharing
 
 # License
-
+    MonkeyBrain Inc.&#169
 # Author
-
-# Improvement
+  Sanjay Gonsalves
+  Student-UCSD Extension 
+  Web Development Boot Camp
+# Improvements
+    -put faded background image on card
+    -create a carousel for portfolio
+    -make pages more responsive and interactive
+    -experiment on page design 
+    -experiment with images and video
+    
+    
 
