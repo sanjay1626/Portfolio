@@ -1,3 +1,4 @@
+/* page backgroundstyling */
 body {
     padding: 0;
     margin: 0;
@@ -11,33 +12,5 @@ body {
 }
 
 
-@media screen and (max-width: 992px) {
-    .navbar-brand {
-      align-self: flex-end;
-      margin-top: -2.5rem;
-    }
-    .m-4 {
-      margin: 0 !important;
-    }  
-  }
-  .hero {
-    /* Photo by mnm.all on Unsplash */
-    background: url('https://images.unsplash.com/photo-1518176258769-f227c798150e') center;
-    background-size: cover;
-    padding: 4rem 2rem;
-  
-    /* Grid styles */
-    display: grid;
-    align-items: center;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  }
 
-
-  .p{
-    font-family: 'Libre Baskerville', serif;
-    font-size: 18px;
-  }
-
-  .img{
-      opacity: 0.5;
-  }
+ 
