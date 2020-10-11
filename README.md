@@ -6,7 +6,7 @@ Created a simple styled portfolio, which contains three pages linked to each oth
 The About Me, that gives a short description of myself
 The Portfolio, that shows projects that are completed by myself
 The Contact, that allows users to input their contact info and message
-Design was more on just a professional simple look
+Design was more on just a professional simple look and would need to develop more on to the page design and response
 
 # Languages
     HTML,CSS, & Bootstrap
